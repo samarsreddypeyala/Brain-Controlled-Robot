@@ -1,2 +1,2 @@
-# Brain Controlled bot
-Arduino Code for Brain Controlled bot, wheel chair, Vehicles
+# Brain Controlled Robot
+Arduino Code for Brain Controlled Robot, wheel chair, Vehicles
